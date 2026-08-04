@@ -1,0 +1,31 @@
+# 抖音 / 抖音极速版 / 多闪（中国大陆版）
+
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinvod.com
+
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,bytecdn.cn
+DOMAIN-SUFFIX,volces.com
+
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyincdn.com
+
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,iesdouyin.net
+DOMAIN-SUFFIX,iesdouyinpic.com
+
+DOMAIN-SUFFIX,neihanshequ.com
+
+# 多闪
+DOMAIN-SUFFIX,duoshan.com
+DOMAIN-SUFFIX,doubao.com
