@@ -1,0 +1,23 @@
+# Huya
+DOMAIN-SUFFIX,huya.com
+DOMAIN-SUFFIX,huya.cn
+DOMAIN-SUFFIX,huyaimg.com
+DOMAIN-SUFFIX,huyaapi.com
+DOMAIN-SUFFIX,huyalive.com
+DOMAIN-SUFFIX,msstatic.com
+DOMAIN-SUFFIX,dwstatic.com
+DOMAIN-SUFFIX,duowan.com
+DOMAIN-SUFFIX,yy.com
+
+# API
+DOMAIN,api.huya.com
+DOMAIN,mp.huya.com
+DOMAIN,live.huya.com
+
+# CDN
+DOMAIN-SUFFIX,alicdn.huya.com
+DOMAIN-SUFFIX,txcdn.huya.com
+
+# Process
+PROCESS-NAME,Huya
+PROCESS-NAME,HuyaLive
