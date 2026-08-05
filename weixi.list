@@ -1,6 +1,4 @@
-# =========================
-# WeChat
-# =========================
+ WeChat
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,qq.com
@@ -20,9 +18,9 @@ DOMAIN-SUFFIX,wx.qlogo.cn
 DOMAIN-SUFFIX,work.weixin.qq.com
 DOMAIN-SUFFIX,channels.weixin.qq.com
 DOMAIN-SUFFIX,channels.weixin.qq.com.cn
-# =========================
-# QQ
-# =========================
+
+QQ
+
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,qpic.cn
