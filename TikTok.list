@@ -1,0 +1,31 @@
+# TikTok
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokcdn-eu.com
+DOMAIN-SUFFIX,tiktokrow-cdn.com
+DOMAIN-SUFFIX,tiktokstatic.com
+DOMAIN-SUFFIX,tiktokmusic.app
+DOMAIN-SUFFIX,tiktokshop.com
+DOMAIN-SUFFIX,tiktokglobalshop.com
+
+# ByteDance 国际
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,byteoversea.net
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,byteintl.com
+
+# API
+DOMAIN-SUFFIX,tiktokapis.com
+DOMAIN-SUFFIX,tiktokapis.net
+DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,tiktokv.eu
+
+# CDN
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+
+# QUIC
+PROCESS-NAME,TikTok
