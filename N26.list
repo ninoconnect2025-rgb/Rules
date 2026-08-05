@@ -19,3 +19,8 @@ DOMAIN-SUFFIX,login.n26.com
 
 # WebSocket / 服务
 DOMAIN-SUFFIX,services.tech26.de
+
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,api.kraken.com
+DOMAIN-SUFFIX,ws.kraken.com
+DOMAIN-SUFFIX,krakenassets.com
