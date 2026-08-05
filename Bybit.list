@@ -23,3 +23,8 @@ DOMAIN-SUFFIX,stream.bybit.com
 
 # WebSocket
 DOMAIN-SUFFIX,ws.bybit.com
+
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,api.bitget.com
+DOMAIN-SUFFIX,ws.bitget.com
+DOMAIN-SUFFIX,bitgetimg.com
