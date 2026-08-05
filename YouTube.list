@@ -1,0 +1,31 @@
+# YouTube
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtubeeducation.com
+
+# YouTube Apps
+DOMAIN,m.youtube.com
+DOMAIN,music.youtube.com
+DOMAIN,studio.youtube.com
+DOMAIN,tv.youtube.com
+DOMAIN,kids.youtube.com
+
+# API
+DOMAIN-SUFFIX,youtubei.googleapis.com
+DOMAIN-SUFFIX,youtube.googleapis.com
+DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
+
+# CDN
+DOMAIN,i.ytimg.com
+DOMAIN,s.ytimg.com
+DOMAIN,yt3.ggpht.com
+
+# Upload
+DOMAIN,upload.youtube.com
+
+# Process
+PROCESS-NAME,YouTube
