@@ -1,1 +1,22 @@
-bybit.com
+# =========================
+# Bybit
+# =========================
+
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybit.org
+
+# API
+DOMAIN-SUFFIX,api.bybit.com
+DOMAIN-SUFFIX,stream.bybit.com
+
+# WebSocket
+DOMAIN-SUFFIX,ws.bybit.com
+DOMAIN-SUFFIX,stream.bybit.com
+
+# Static / CDN
+DOMAIN-SUFFIX,bybit-static.com
+DOMAIN-SUFFIX,bybitimg.com
