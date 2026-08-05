@@ -1,0 +1,66 @@
+# ===============================
+# Finance 金融交易分流
+# Bybit / Bitget / Kraken / Wise / N26
+# ===============================
+
+
+# ========== Bybit ==========
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybit.org
+DOMAIN-SUFFIX,bybit.eu
+
+# Bybit Static
+DOMAIN-SUFFIX,bybit-static.com
+DOMAIN-SUFFIX,bybitimg.com
+
+# Bybit Backup
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byapps.net
+
+# Bybit API
+DOMAIN-SUFFIX,api.bybit.com
+DOMAIN-SUFFIX,stream.bybit.com
+
+# Bybit WebSocket
+DOMAIN-SUFFIX,ws.bybit.com
+
+
+# ========== Bitget ==========
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitgetglobal.com
+DOMAIN-SUFFIX,bitgetapi.com
+
+# Bitget API
+DOMAIN-SUFFIX,api.bitget.com
+DOMAIN-SUFFIX,ws.bitget.com
+
+# Bitget Static
+DOMAIN-SUFFIX,bitgetimg.com
+
+
+# ========== Kraken ==========
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kraken.trade
+DOMAIN-SUFFIX,krakenfx.com
+DOMAIN-SUFFIX,api.kraken.com
+DOMAIN-SUFFIX,ws.kraken.com
+
+
+# ========== Wise ==========
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,wise.co.uk
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,api.wise.com
+
+
+# ========== N26 ==========
+DOMAIN-SUFFIX,n26.com
+DOMAIN-SUFFIX,api.n26.com
+DOMAIN-SUFFIX,cdn.n26.com
+DOMAIN-SUFFIX,auth.n26.com
