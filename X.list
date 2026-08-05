@@ -1,0 +1,29 @@
+# X (Twitter)
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,xusercontent.com
+
+# API
+DOMAIN-SUFFIX,api.x.com
+DOMAIN-SUFFIX,api.twitter.com
+DOMAIN-SUFFIX,upload.twitter.com
+DOMAIN-SUFFIX,oauth.twitter.com
+
+# Web
+DOMAIN-SUFFIX,abs.twimg.com
+DOMAIN-SUFFIX,mobile.twitter.com
+DOMAIN-SUFFIX,platform.twitter.com
+DOMAIN-SUFFIX,syndication.twitter.com
+DOMAIN-SUFFIX,tweetdeck.com
+
+# Media
+DOMAIN-SUFFIX,pbs.twimg.com
+DOMAIN-SUFFIX,video.twimg.com
+DOMAIN-SUFFIX,ton.twimg.com
+DOMAIN-SUFFIX,cdn.syndication.twimg.com
+
+# Process
+PROCESS-NAME,X
+PROCESS-NAME,Twitter
