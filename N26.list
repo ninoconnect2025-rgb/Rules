@@ -1,1 +1,21 @@
-n26.com
+# =========================
+# N26
+# =========================
+
+# 官方网站
+DOMAIN-SUFFIX,n26.com
+
+# App / API
+DOMAIN-SUFFIX,api.tech26.de
+DOMAIN-SUFFIX,tech26.de
+
+# 静态资源
+DOMAIN-SUFFIX,n26.io
+DOMAIN-SUFFIX,n26cdn.com
+
+# 身份认证
+DOMAIN-SUFFIX,auth.n26.com
+DOMAIN-SUFFIX,login.n26.com
+
+# WebSocket / 服务
+DOMAIN-SUFFIX,services.tech26.de
