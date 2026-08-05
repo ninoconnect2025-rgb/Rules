@@ -20,3 +20,13 @@ DOMAIN-SUFFIX,stream.bybit.com
 # Static / CDN
 DOMAIN-SUFFIX,bybit-static.com
 DOMAIN-SUFFIX,bybitimg.com
+
+# Bybit API备用域名
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byapps.net
+
+DOMAIN-SUFFIX,bybit.eu
+DOMAIN-SUFFIX,bybitglobal.com
+
