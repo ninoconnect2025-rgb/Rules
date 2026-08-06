@@ -1,7 +1,16 @@
-# Talkatone
-DOMAIN-SUFFIX,talkatone.com
-DOMAIN-SUFFIX,talkatone.net
+# Talkatone 主域名
+DOMAIN-SUFFIX,tktn.be
 
-# API / 服务
-DOMAIN-SUFFIX,ooma.com
-DOMAIN-SUFFIX,ooma.net
+# Talkatone App相关
+DOMAIN-KEYWORD,talkatone
+
+# XMPP聊天/消息服务器
+DOMAIN-SUFFIX,xmpp.tktn.be
+DOMAIN-SUFFIX,xmpp4.tktn.be
+
+# API/登录/账号
+DOMAIN-SUFFIX,api.talkatone.com
+DOMAIN-SUFFIX,talkatone.com
+
+# CDN/静态资源
+DOMAIN-SUFFIX,talkatonecdn.com
