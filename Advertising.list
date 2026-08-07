@@ -8,15 +8,16 @@ DOMAIN-SUFFIX,ads.google.com,REJECT
 # YouTube广告
 DOMAIN-SUFFIX,ads.youtube.com,REJECT
 DOMAIN-SUFFIX,youtubeads.com,REJECT
+DOMAIN-SUFFIX,pagead2.googlesyndication.com,REJECT
+DOMAIN,googleads.g.doubleclick.net,REJECT
 
-# Google统计追踪
+# 统计追踪
 DOMAIN-SUFFIX,google-analytics.com,REJECT
 DOMAIN-SUFFIX,analytics.google.com,REJECT
 DOMAIN-SUFFIX,app-measurement.com,REJECT
 
-# 常见广告联盟
+# 广告联盟
 DOMAIN-SUFFIX,amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,criteo.com,REJECT
 DOMAIN-SUFFIX,taboola.com,REJECT
 DOMAIN-SUFFIX,outbrain.com,REJECT
-DOMAIN-SUFFIX,scorecardresearch.com,REJECT
