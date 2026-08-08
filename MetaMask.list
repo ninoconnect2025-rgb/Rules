@@ -1,0 +1,44 @@
+# ===== MetaMask 小狐狸 =====
+
+# 官方网站 / App
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,metamask.com
+DOMAIN-SUFFIX,metamask.app
+DOMAIN-SUFFIX,portfolio.metamask.io
+
+# MetaMask API
+DOMAIN-SUFFIX,api.metamask.io
+DOMAIN-SUFFIX,accounts.api.cx.metamask.io
+DOMAIN-SUFFIX,acl.execution.metamask.io
+
+# Consensys
+DOMAIN-SUFFIX,consensys.net
+DOMAIN-SUFFIX,consensys.io
+
+# Infura RPC（MetaMask常用）
+DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,infura.network
+DOMAIN-SUFFIX,mainnet.infura.io
+
+# IPFS存储
+DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,ipfs.infura.io
+
+# WalletConnect（连接DApp）
+DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,relay.walletconnect.com
+DOMAIN-SUFFIX,bridge.walletconnect.org
+
+# 常用RPC节点
+DOMAIN-SUFFIX,alchemy.com
+DOMAIN-SUFFIX,ankr.com
+DOMAIN-SUFFIX,quicknode.com
+DOMAIN-SUFFIX,nodereal.io
+DOMAIN-SUFFIX,getblock.io
+
+# 链数据
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,ethplorer.io
+
+# DApp连接
+DOMAIN-SUFFIX,chainlist.org
