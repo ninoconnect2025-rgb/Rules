@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,platform.openai.com
 # ================================
 # Gemini
 # ================================
-
+DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,bard.google.com
 
