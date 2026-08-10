@@ -1,201 +1,39 @@
+1.  DOMAIN,browser-intake-datadoghq.com
+2.  DOMAIN,chat.openai.com.cdn.cloudflare.net
+3.  DOMAIN,openai-api.arkoselabs.com
+4.  DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+5.  DOMAIN,openaicomproductionae4b.blob.core.windows.net
+6.  DOMAIN,production-openaicom-storage.azureedge.net
+7.  DOMAIN,static.cloudflareinsights.com
 
+8.  DOMAIN-SUFFIX,ai.com
+9.  DOMAIN-SUFFIX,algolia.net
+10. DOMAIN-SUFFIX,api.statsig.com
+11. DOMAIN-SUFFIX,auth0.com
+12. DOMAIN-SUFFIX,chatgpt.com
+13. DOMAIN-SUFFIX,chatgpt.livekit.cloud
+14. DOMAIN-SUFFIX,client-api.arkoselabs.com
+15. DOMAIN-SUFFIX,events.statsigapi.net
+16. DOMAIN-SUFFIX,featuregates.org
+17. DOMAIN-SUFFIX,host.livekit.cloud
+18. DOMAIN-SUFFIX,identrust.com
+19. DOMAIN-SUFFIX,intercom.io
+20. DOMAIN-SUFFIX,intercomcdn.com
+21. DOMAIN-SUFFIX,launchdarkly.com
+22. DOMAIN-SUFFIX,oaistatic.com
+23. DOMAIN-SUFFIX,oaiusercontent.com
+24. DOMAIN-SUFFIX,observeit.net
+25. DOMAIN-SUFFIX,openai.com
+26. DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+27. DOMAIN-SUFFIX,openaicom.imgix.net
+28. DOMAIN-SUFFIX,segment.io
+29. DOMAIN-SUFFIX,sentry.io
+30. DOMAIN-SUFFIX,stripe.com
+31. DOMAIN-SUFFIX,turn.livekit.cloud
 
-# =========================
-# OpenAI
-# =========================
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,auth.openai.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,cdn.oaistatic.com
-DOMAIN-SUFFIX,platform.openai.com
-DOMAIN-SUFFIX,api.openai.com
-DOMAIN-SUFFIX,chat.openai.com
+32. DOMAIN-KEYWORD,openai
 
-DOMAIN-SUFFIX,api.anthropic.com
+33. IP-CIDR,24.199.123.28/32
+34. IP-CIDR,64.23.132.171/32
 
-DOMAIN-SUFFIX,api.mistral.ai
-
-DOMAIN-SUFFIX,api.perplexity.ai
-
-DOMAIN-SUFFIX,api.groq.com
-
-DOMAIN-SUFFIX,api.cohere.ai
-
-DOMAIN-SUFFIX,api.together.xyz
-
-DOMAIN-SUFFIX,api.replicate.com
-
-# =========================
-# Anthropic Claude
-# =========================
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,anthropic.com
-
-# =========================
-# Google AI
-# =========================
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,notebooklm.google.com
-
-# =========================
-# Microsoft Copilot
-# =========================
-DOMAIN-SUFFIX,copilot.microsoft.com
-DOMAIN-SUFFIX,copilot.ai
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bingapis.com
-
-# =========================
-# xAI
-# =========================
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,grok.com
-
-# =========================
-# Perplexity
-# =========================
-DOMAIN-SUFFIX,perplexity.ai
-
-# =========================
-# Mistral
-# =========================
-DOMAIN-SUFFIX,mistral.ai
-
-# =========================
-# Cohere
-# =========================
-DOMAIN-SUFFIX,cohere.com
-
-# =========================
-# Hugging Face
-# =========================
-DOMAIN-SUFFIX,huggingface.co
-
-# =========================
-# Together AI
-# =========================
-DOMAIN-SUFFIX,together.ai
-
-# =========================
-# Replicate
-# =========================
-DOMAIN-SUFFIX,replicate.com
-
-# =========================
-# OpenRouter
-# =========================
-DOMAIN-SUFFIX,openrouter.ai
-
-# =========================
-# Groq
-# =========================
-DOMAIN-SUFFIX,groq.com
-DOMAIN-SUFFIX,console.groq.com
-
-# =========================
-# Fireworks AI
-# =========================
-DOMAIN-SUFFIX,fireworks.ai
-
-# =========================
-# Cerebras
-# =========================
-DOMAIN-SUFFIX,cerebras.ai
-
-# =========================
-# SambaNova
-# =========================
-DOMAIN-SUFFIX,sambanova.ai
-
-# =========================
-# Poe
-# =========================
-DOMAIN-SUFFIX,poe.com
-
-# =========================
-# Character.AI
-# =========================
-DOMAIN-SUFFIX,character.ai
-
-# =========================
-# Cursor
-# =========================
-DOMAIN-SUFFIX,cursor.com
-DOMAIN-SUFFIX,cursor.sh
-
-# =========================
-# Windsurf
-# =========================
-DOMAIN-SUFFIX,windsurf.com
-DOMAIN-SUFFIX,codeium.com
-
-# =========================
-# GitHub Copilot
-# =========================
-DOMAIN-SUFFIX,githubcopilot.com
-DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
-
-# =========================
-# Bolt
-# =========================
-DOMAIN-SUFFIX,bolt.new
-
-# =========================
-# Lovable
-# =========================
-DOMAIN-SUFFIX,lovable.dev
-
-# =========================
-# Vercel AI
-# =========================
-DOMAIN-SUFFIX,vercel.com
-
-# =========================
-# Replit AI
-# =========================
-DOMAIN-SUFFIX,replit.com
-
-# =========================
-# Gamma
-# =========================
-DOMAIN-SUFFIX,gamma.app
-
-# =========================
-# Midjourney
-# =========================
-DOMAIN-SUFFIX,midjourney.com
-
-# =========================
-# Leonardo AI
-# =========================
-DOMAIN-SUFFIX,leonardo.ai
-
-# =========================
-# Runway
-# =========================
-DOMAIN-SUFFIX,runwayml.com
-
-# =========================
-# Suno
-# =========================
-DOMAIN-SUFFIX,suno.com
-
-# =========================
-# Udio
-# =========================
-DOMAIN-SUFFIX,udio.com
-
-# =========================
-# ElevenLabs
-# =========================
-DOMAIN-SUFFIX,elevenlabs.io
-
-# =========================
-# HeyGen
-# =========================
-DOMAIN-SUFFIX,heygen.com
+35. IP-ASN,20473
