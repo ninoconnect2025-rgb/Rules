@@ -17,7 +17,9 @@
 22. DOMAIN-SUFFIX,oaistatic.com
 23. DOMAIN-SUFFIX,oaiusercontent.com
 24. DOMAIN-SUFFIX,observeit.net
+
 25. DOMAIN-SUFFIX,openai.com
+
 26. DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 27. DOMAIN-SUFFIX,openaicom.imgix.net
 28. DOMAIN-SUFFIX,segment.io
@@ -27,6 +29,6 @@
 
 32. DOMAIN-KEYWORD,openai
 
-DOMAIN-SUFFIX,openai.com,PROXY
+DOMAIN-SUFFIX,openai.com
 
 
