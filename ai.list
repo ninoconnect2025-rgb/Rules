@@ -1,0 +1,54 @@
+# ================================
+# ChatGPT
+# ================================
+
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,auth.openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openaiusercontent.com
+DOMAIN-SUFFIX,api.openai.com
+
+# ChatGPT CDN / Static
+DOMAIN-SUFFIX,cdn.openai.com
+DOMAIN-SUFFIX,files.openai.com
+DOMAIN-SUFFIX,platform.openai.com
+
+
+# ================================
+# Gemini
+# ================================
+
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+
+# Google AI Studio
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+
+# Gemini API
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,alkalimakersuite-pa.googleapis.com
+
+# Google AI Core
+DOMAIN,proactivebackend-pa.googleapis.com
+
+# Google Accounts / Login
+DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,accounts.googleusercontent.com
+DOMAIN-SUFFIX,googleusercontent.com
+
+# Google Static / CDN
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleapis.com
+
+
+# ================================
+# AI 共用规则
+# ================================
+
+DOMAIN-SUFFIX,ai.google
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
