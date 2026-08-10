@@ -1,0 +1,21 @@
+# > Google Gemini & Bard
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+
+# > Google AI Studio & API
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,alkalimakersuite-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+
+# > Google AI Core & Experimental Services
+DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,aisandbox.google.com
+
+# > DeepMind
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+
+# > Google Account
+DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,accounts.googleusercontent.com
+
