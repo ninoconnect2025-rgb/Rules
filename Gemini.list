@@ -1,22 +1,29 @@
 # > Google Gemini & 
 DOMAIN-SUFFIX,gemini.com
+# > Gemini / Bard 主站与核心 API
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,bard.google.com
-
-# > Google AI Studio & API
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,alkalimakersuite-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,ai.google.dev
 
-# > Google AI Core & Experimental Services
-DOMAIN,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,aisandbox.google.com
-
-# > DeepMind
+# > Google AI / DeepMind 生态
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,ai.google
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,labs.google.com
 
-# > Google Account
-DOMAIN-SUFFIX,accounts.google.com
-DOMAIN-SUFFIX,accounts.googleusercontent.com
+# > Google 账户验证与 CDN 静态资源（Gemini 正常加载必需）
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN,accounts.google.com
+DOMAIN,ogs.google.com
 
+# > 关键字匹配（补漏）
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developer.generativeai
