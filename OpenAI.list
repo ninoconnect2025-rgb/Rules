@@ -1,10 +1,4 @@
-1.  DOMAIN,browser-intake-datadoghq.com
-2.  DOMAIN,chat.openai.com.cdn.cloudflare.net
-3.  DOMAIN,openai-api.arkoselabs.com
-4.  DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-5.  DOMAIN,openaicomproductionae4b.blob.core.windows.net
-6.  DOMAIN,production-openaicom-storage.azureedge.net
-7.  DOMAIN,static.cloudflareinsights.com
+1.  
 
 8.  DOMAIN-SUFFIX,ai.com
 9.  DOMAIN-SUFFIX,algolia.net
@@ -33,7 +27,3 @@
 
 32. DOMAIN-KEYWORD,openai
 
-33. IP-CIDR,24.199.123.28/32
-34. IP-CIDR,64.23.132.171/32
-
-35. IP-ASN,20473
