@@ -21,3 +21,16 @@ DOMAIN-SUFFIX,txcdn.huya.com
 # Process
 PROCESS-NAME,Huya
 PROCESS-NAME,HuyaLive
+
+# 小红书
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhslink.com
+DOMAIN-SUFFIX,xhscdn.com
+
+# 微博
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,weibo.com.cn
+DOMAIN-SUFFIX,wbimg.cn
+DOMAIN-SUFFIX,sinaimg.cn
+
