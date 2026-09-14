@@ -34,3 +34,9 @@ DOMAIN-SUFFIX,weibo.com.cn
 DOMAIN-SUFFIX,wbimg.cn
 DOMAIN-SUFFIX,sinaimg.cn
 
+# 快手
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,ksapisrv.com
+DOMAIN-SUFFIX,gifshow.com
+DOMAIN-SUFFIX,yximgs.com
+DOMAIN-SUFFIX,kuaishoupay.com
