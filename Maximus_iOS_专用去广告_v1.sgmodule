@@ -1,0 +1,72 @@
+#!name=Maximus iOS 专用去广告 v1
+#!desc=针对常用国内 App 的开屏/广告域名拦截；适配 Shadowrocket。优先覆盖中国移动云盘、抖音、快手、小红书、微博、B站、淘宝、京东、美团、闲鱼、网易云音乐、12306、高德、微信等。
+#!author=ChatGPT
+#!update=7d
+
+[Rule]
+# 中国移动 / 中国移动云盘
+DOMAIN,ad.mcloud.139.com,REJECT
+DOMAIN,jzts.cmpassport.com,REJECT
+DOMAIN-SUFFIX,mcloud.139.com,REJECT-DROP
+
+# 通用广告 SDK（仅拦广告主机，不拦正常业务域）
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
+DOMAIN-SUFFIX,gdt.qq.com,REJECT
+DOMAIN-SUFFIX,union.baidu.com,REJECT
+DOMAIN-SUFFIX,adnxs.com,REJECT
+DOMAIN-SUFFIX,doubleclick.net,REJECT
+DOMAIN-SUFFIX,googlesyndication.com,REJECT
+
+# 抖音 / 字节系广告
+DOMAIN-SUFFIX,ad.toutiao.com,REJECT
+DOMAIN-SUFFIX,ad.byteoversea.com,REJECT
+DOMAIN-SUFFIX,ad.bytedance.com,REJECT
+
+# 快手
+DOMAIN-SUFFIX,open.e.kuaishou.com,REJECT
+DOMAIN-SUFFIX,ad.kuaishou.com,REJECT
+
+# 小红书
+DOMAIN,edith.xiaohongshu.com,REJECT
+DOMAIN-SUFFIX,xiaohongshu.com,REJECT
+
+# 微博
+DOMAIN-SUFFIX,ad.weibo.com,REJECT
+DOMAIN-SUFFIX,wbapp.uve.weibo.com,REJECT
+
+# Bilibili
+DOMAIN-SUFFIX,cm.bilibili.com,REJECT
+DOMAIN-SUFFIX,cmts.iqiyi.com,REJECT
+
+# 淘宝 / 阿里广告
+DOMAIN-SUFFIX,adash.m.taobao.com,REJECT
+DOMAIN-SUFFIX,adashx.m.taobao.com,REJECT
+DOMAIN-SUFFIX,advertisement.taobao.com,REJECT
+
+# 京东
+DOMAIN-SUFFIX,ads.union.jd.com,REJECT
+DOMAIN-SUFFIX,ad.3.cn,REJECT
+
+# 美团
+DOMAIN-SUFFIX,ad.meituan.com,REJECT
+
+# 闲鱼
+DOMAIN-SUFFIX,ad.xianyu.com,REJECT
+
+# 网易云音乐
+DOMAIN-SUFFIX,iadmusic.music.126.net,REJECT
+DOMAIN-SUFFIX,admusic.music.126.net,REJECT
+
+# 12306
+DOMAIN-SUFFIX,ad.12306.cn,REJECT
+
+# 高德地图
+DOMAIN-SUFFIX,ad.amap.com,REJECT
+
+[URL Rewrite]
+# 中国移动云盘精确广告接口
+^https?:\/\/ad\.mcloud\.139\.com\/.+ - reject
+^https?:\/\/jzts\.cmpassport\.com\/.+ - reject
+
+[MITM]
+hostname = %APPEND% ad.mcloud.139.com,jzts.cmpassport.com,edith.xiaohongshu.com
