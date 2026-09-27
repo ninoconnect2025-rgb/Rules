@@ -1,0 +1,45 @@
+# =========================
+# Gate 主站
+# =========================
+DOMAIN-SUFFIX,gate.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gateio.io
+DOMAIN-SUFFIX,gateio.ws
+
+
+# =========================
+# Gate API
+# =========================
+DOMAIN,api.gateio.ws
+DOMAIN,fx-api.gateio.ws
+DOMAIN,api.gate.us
+DOMAIN,api-testnet.gateapi.io
+
+
+# =========================
+# Gate WebSocket
+# =========================
+DOMAIN,api.gateio.ws
+DOMAIN,ws.gate.io
+DOMAIN,ws.gateio.io
+DOMAIN,fx-ws.gateio.ws
+DOMAIN,ws.gate.com
+DOMAIN,ws-testnet.gate.com
+
+
+# =========================
+# Gate Unified
+# =========================
+DOMAIN,ws.gate.com
+
+
+# =========================
+# Gate Options
+# =========================
+DOMAIN,op-ws.gateio.live
+
+
+# =========================
+# Gate Delivery
+# =========================
+DOMAIN,fx-ws.gateio.ws
