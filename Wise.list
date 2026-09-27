@@ -1,0 +1,26 @@
+# =========================
+# Wise 主站
+# =========================
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,wise.help
+DOMAIN-SUFFIX,wiseassets.com
+
+
+# =========================
+# Wise API
+# =========================
+DOMAIN,api.wise.com
+DOMAIN,api-mtls.transferwise.com
+DOMAIN-SUFFIX,transferwise.com
+
+
+# =========================
+# Wise Open Banking
+# =========================
+DOMAIN,openbanking.transferwise.com
+
+
+# =========================
+# Wise 旧/兼容 API
+# =========================
+DOMAIN,api.transferwise.com
