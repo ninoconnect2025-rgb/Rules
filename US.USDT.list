@@ -53,6 +53,12 @@ DOMAIN-SUFFIX,ws.bitget.com
 # Bitget Static
 DOMAIN-SUFFIX,bitgetimg.com
 
+# =========================
+# Roogoo
+# =========================
+DOMAIN-SUFFIX,roogoo.com
+DOMAIN-SUFFIX,help.roogoo.com
+DOMAIN,h5.roogoo.com
 
 
 
