@@ -1,0 +1,23 @@
+# ===== Facebook =====
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,facebookmail.com
+
+# ===== Instagram =====
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,instagram.net
+DOMAIN-SUFFIX,cdninstagram.com
+
+# ===== WhatsApp =====
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,wa.me
+
+# ===== Meta 通用 =====
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,threads.net
