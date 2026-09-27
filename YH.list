@@ -44,12 +44,5 @@ DOMAIN-SUFFIX,ws.bitget.com
 DOMAIN-SUFFIX,bitgetimg.com
 
 
-# ========== Kraken ==========
-DOMAIN-SUFFIX,kraken.com
-DOMAIN-SUFFIX,kraken.trade
-DOMAIN-SUFFIX,krakenfx.com
-DOMAIN-SUFFIX,api.kraken.com
-DOMAIN-SUFFIX,ws.kraken.com
-
 
 
