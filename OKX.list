@@ -1,0 +1,38 @@
+# =========================
+# OKX Global
+# =========================
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.me
+
+# REST API
+DOMAIN,openapi.okx.com
+
+# WebSocket
+DOMAIN,ws.okx.com
+DOMAIN,wspap.okx.com
+
+
+# =========================
+# OKX United States / Australia
+# =========================
+DOMAIN-SUFFIX,us.okx.com
+
+# US/AU WebSocket
+DOMAIN,wsus.okx.com
+DOMAIN,wsuspap.okx.com
+
+
+# =========================
+# OKX Europe / EEA
+# =========================
+DOMAIN-SUFFIX,eea.okx.com
+
+# EEA WebSocket
+DOMAIN,wseea.okx.com
+DOMAIN,wseeapap.okx.com
+
+
+# =========================
+# OKX Turkey
+# =========================
+DOMAIN-SUFFIX,tr.okx.com
