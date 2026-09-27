@@ -52,11 +52,7 @@ DOMAIN-SUFFIX,api.kraken.com
 DOMAIN-SUFFIX,ws.kraken.com
 
 
-# ========== Wise ==========
-DOMAIN-SUFFIX,wise.com
-DOMAIN-SUFFIX,wise.co.uk
-DOMAIN-SUFFIX,transferwise.com
-DOMAIN-SUFFIX,api.wise.com
+
 
 
 # ========== N26 ==========
