@@ -96,3 +96,17 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,accounts.google.com
 DOMAIN-SUFFIX,oauth2.googleapis.com
 DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
+# > Grok / xAI
+
+# Grok 网页版及相关服务
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,api.x.ai
+
+# Grok API
+DOMAIN-SUFFIX,console.x.ai
+
+# X 平台登录与静态资源（Grok 可能依赖）
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,api.x.com
