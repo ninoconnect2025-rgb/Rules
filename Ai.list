@@ -1,4 +1,24 @@
-Ai
+> Claude / Anthropic 核心域名
+
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.app
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+
+> Claude API / CDN / 静态资源
+
+DOMAIN,api.anthropic.com
+DOMAIN,a-api.anthropic.com
+DOMAIN,a-cdn.anthropic.com
+DOMAIN,s-cdn.anthropic.com
+DOMAIN,assets-proxy.anthropic.com
+DOMAIN,a.claude.ai
+DOMAIN,a-cdn.claude.ai
+DOMAIN,assets.claude.ai
+DOMAIN,downloads.claude.ai
+DOMAIN,platform.claude.comAi
 # > OpenAI / ChatGPT 核心与二级域名
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
