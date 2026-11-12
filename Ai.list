@@ -130,3 +130,14 @@ DOMAIN-SUFFIX,console.x.ai
 # X 平台登录与静态资源（Grok 可能依赖）
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,api.x.com
+
+
+# Apple Siri
+DOMAIN-SUFFIX,assistant.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,api.smoot.apple.com
+DOMAIN-SUFFIX,siri.apple.com
+DOMAIN-SUFFIX,swallow.apple.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,icloud-content.com
