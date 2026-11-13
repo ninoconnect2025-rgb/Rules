@@ -130,4 +130,9 @@ DOMAIN-SUFFIX,console.x.ai
 # X 平台登录与静态资源（Grok 可能依赖）
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,api.x.com
+苹果ai
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN,apple-relay.apple.com
 
