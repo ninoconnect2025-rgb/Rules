@@ -1,0 +1,6 @@
+# ================= iCloud 核心与加速直连 (不含 CloudKit) =================
+DOMAIN-SUFFIX,icloud.com,DIRECT
+DOMAIN-SUFFIX,icloud-content.com,DIRECT
+DOMAIN-SUFFIX,icloud.com.cn,DIRECT
+DOMAIN-SUFFIX,cdn-apple.com,DIRECT
+DOMAIN-SUFFIX,mzstatic.com,DIRECT
